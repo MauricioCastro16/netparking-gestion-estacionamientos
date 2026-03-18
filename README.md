@@ -1,4 +1,4 @@
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MauricioCastro16/Seminario-Estacionamientos)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MauricioCastro16/netparking-gestion-estacionamientos)
 
 # NetParking - Gestión de Estacionamientos
 
